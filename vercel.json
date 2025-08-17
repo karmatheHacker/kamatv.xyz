@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/original-buggyflix.html" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
